@@ -57,13 +57,5 @@ A Django-based web application for managing a library's book collection and cate
 - `static/`: CSS, JS, and image files
 - `media/`: Uploaded photos
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is open source. Feel free to use and modify." 
+## Note
+A training project based on a YouTube course, with personal enhancements.
